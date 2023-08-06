@@ -1,4 +1,3 @@
-# hello
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamidurrk.hamidurrk">
-
-Hi there
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=500&pause=1000&color=48CBC5&background=035E5D00&center=true&vCenter=true&repeat=false&width=500&lines=Md+Hamidur+Rahman+Khan" alt="Typing SVG" /></a>
+# 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48CBC5&center=true&vCenter=true&width=500&lines=Blending+Robotics+and+Coding+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Exploring+the+Boundaries+of+Innovation+%F0%9F%8C%8C;Inspiring+Minds+through+Robotics+%F0%9F%8C%9F" alt="Typing SVG" /></a>
