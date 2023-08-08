@@ -10,7 +10,8 @@
 <details open> 
   <summary>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+My+Favorite+Tools" alt="Typing SVG" /></a> </summary>
-  <h3 color=#80DCDA>👨‍💻 Programming and Markup Languages</h3>
+  </br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=500&pause=1000&color=C0F2F3&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Programming+and+Markup+Languages" alt="Typing SVG" /></a>
 
   <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -28,8 +29,8 @@
       <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-white?logo=solidity&logoColor=white&color=%232B247C"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
-
-  <h3 style="color:#80DCDA;">🧰 Frameworks and Libraries</h3>
+</br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=500&pause=1000&color=C0F2F3&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%A7%B0+Frameworks+and+Libraries" alt="Typing SVG" /></a>
 
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -46,8 +47,8 @@
       <a href="#"><img alt="web3.py" src="https://img.shields.io/badge/web3.py-white?logo=web3dotjs&logoColor=blue&color=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
-
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+</br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=500&pause=1000&color=C0F2F3&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%97%84%EF%B8%8F+Databases+and+Cloud+Hosting" alt="Typing SVG" /></a>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -60,8 +61,8 @@
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
-
-  <h3>💻 Software and Tools</h3>
+</br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=500&pause=1000&color=C0F2F3&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%92%BB+Software+and+Tools" alt="Typing SVG" /></a>
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
