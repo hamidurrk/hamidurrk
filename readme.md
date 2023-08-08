@@ -8,7 +8,8 @@
 </p>
 </br></br></br></br>
 
-# 
+<hr>
+
 </br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a>
 
@@ -26,7 +27,8 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=44BDB8&line=44BDB8&point=FFFFFF&hide_border=true" /></a>
 
-#
+<hr>
+
 </br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=My+Favorite+Tools" alt="My Favourite Tools" /></a>
 
@@ -108,6 +110,24 @@
       <a href="#"><img alt="" src=""></a>
   </p>
 
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hamidurrk/FacebookBot" title="FacebookBot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=FacebookBot&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/hamidurrk/Nevermind--A_3D_Java_Game" title="Nevermind--A_3D_Java_Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Nevermind--A_3D_Java_Game&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hamidurrk/Nevermind--A_3D_Java_Game" title="Nevermind--A_3D_Java_Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Nevermind--A_3D_Java_Game&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 
 
