@@ -7,11 +7,30 @@
 <a href="https://git.io/typing-svg"><img align=center src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48CBC5&center=true&vCenter=true&width=500&lines=Blending+Robotics+and+Coding+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Exploring+the+Boundaries+of+Innovation+%F0%9F%8C%8C;Inspiring+Minds+through+Robotics+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 </p>
 </br></br></br></br>
-<details open> 
-  <summary>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+My+Favorite+Tools" alt="Typing SVG" /></a> </summary>
-  </br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=500&pause=1000&color=C0F2F3&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Programming+and+Markup+Languages" alt="Typing SVG" /></a>
+
+# 
+</br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <img title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8"/>
+ 
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=44BDB8&icon_color=44BDB8" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=44BDB8&icon_color=44BDB8&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Between you and me:</b> Most of my projects are private. These are just my public contributions.
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=44BDB8&line=44BDB8&point=FFFFFF&hide_border=true" /></a>
+
+#
+</br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=My+Favorite+Tools" alt="My Favourite Tools" /></a>
+
+ <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -29,9 +48,7 @@
       <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-white?logo=solidity&logoColor=white&color=%232B247C"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
-</br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=500&pause=1000&color=C0F2F3&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%A7%B0+Frameworks+and+Libraries" alt="Typing SVG" /></a>
-
+  <h3>🧰 Frameworks and Libraries</h3>
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -47,9 +64,7 @@
       <a href="#"><img alt="web3.py" src="https://img.shields.io/badge/web3.py-white?logo=web3dotjs&logoColor=blue&color=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
-</br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=500&pause=1000&color=C0F2F3&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%97%84%EF%B8%8F+Databases+and+Cloud+Hosting" alt="Typing SVG" /></a>
-
+  <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -61,8 +76,8 @@
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
-</br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=500&pause=1000&color=C0F2F3&vCenter=true&repeat=false&width=500&height=25&lines=%F0%9F%92%BB+Software+and+Tools" alt="Typing SVG" /></a>
+
+  <h3>💻 Software and Tools</h3>
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -73,6 +88,7 @@
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Autodesk Fusion 360" src="https://img.shields.io/badge/Autodesk_Fusion_360-white?logo=autodesk&logoColor=black"></a>
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+      <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-black?logo=blender&logoColor=%23F5792A&color=%23255483"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
@@ -90,5 +106,8 @@
       <a href="#"><img alt="" src=""></a>
       <a href="#"><img alt="" src=""></a>
       <a href="#"><img alt="" src=""></a>
-      <a href="#"><img alt="" src=""></a>
   </p>
+
+
+
+
