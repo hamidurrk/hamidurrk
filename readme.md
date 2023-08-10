@@ -18,13 +18,20 @@
   <img title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8"/>
  
   <h3>💻 GitHub Profile Stats</h3>
+<div width="100%" align="center">
+  <div align="left" width="50%">
+  <img align=left alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=pie&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5""/>
+  </div>
+  <div align="right" width="50%">
+  <img align=right alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="250px"/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Between you and me:</b> Most of my projects are private. These are just my public contributions.
-
+  </div>
+  
+  <br/><br/><br/><br/><br/><br/><br/><br/> <br/><br/><br/><br/><br/><br/><br/><br/> <br/><br/>
+  <p align="left" width="100%">
+  <b>N.B.</b> Most of my projects are private. These are just my public contributions.
+</p>
+<br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=48CBC5&line=48CBC5&point=FFFFFF&hide_border=true" /></a>
 
 <hr>
@@ -131,6 +138,3 @@
   <a align="right" href="https://github.com/hamidurrk/Pong_Game" title="Pong_Game"><img align="right" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Pong_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
-
-
