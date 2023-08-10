@@ -19,13 +19,13 @@
  
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=44BDB8&icon_color=44BDB8" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=44BDB8&icon_color=44BDB8&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Between you and me:</b> Most of my projects are private. These are just my public contributions.
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=44BDB8&line=44BDB8&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=48CBC5&line=48CBC5&point=FFFFFF&hide_border=true" /></a>
 
 <hr>
 
@@ -115,17 +115,20 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hamidurrk/FacebookBot" title="FacebookBot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=FacebookBot&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/hamidurrk/Nevermind--A_3D_Java_Game" title="Nevermind--A_3D_Java_Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Nevermind--A_3D_Java_Game&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/hamidurrk/FacebookBot" title="FacebookBot"><img align="left" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=FacebookBot&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
+  <a align="right" href="https://github.com/hamidurrk/Nevermind--A_3D_Java_Game" title="Nevermind--A_3D_Java_Game"><img align="right" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Nevermind--A_3D_Java_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hamidurrk/Nevermind--A_3D_Java_Game" title="Nevermind--A_3D_Java_Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Nevermind--A_3D_Java_Game&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/hamidurrk/Assistive-Device-for-Visually-Impaired-People" title="Assistive-Device-for-Visually-Impaired-People"><img align="left" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Assistive-Device-for-Visually-Impaired-People&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
+  <a align="right" href="https://github.com/hamidurrk/Hajira" title="Hajira"><img align="right" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Hajira&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/hamidurrk/InSec-Aegis_V2.0" title="InSec-Aegis_V2.0"><img align="left" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=InSec-Aegis_V2.0&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
+  <a align="right" href="https://github.com/hamidurrk/Pong_Game" title="Pong_Game"><img align="right" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Pong_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
