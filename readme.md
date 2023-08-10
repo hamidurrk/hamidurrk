@@ -16,7 +16,7 @@
   <h3> </h3>
 <div width="100%" align="center">
   <div align="left" width="45%">
-    <img align=left alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?        username=hamidurrk&langs_count=8&layout=pie&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="500px""/>
+    <img align=left alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=12&layout=pie&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="500px""/>
   </div>
   <div align="right" width="55%">
     <img width=53% alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="230px"/>
