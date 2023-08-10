@@ -15,13 +15,13 @@
 
   <h3> </h3>
 <div width="100%" align="center">
-  <div align="left" width="50%">
+  <div align="left" width="45%">
   <img align=left alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=pie&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="500px""/>
   </div>
-  <div align="right" width="50%">
-    <img width=50% alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="230px"/>
+  <div align="right" width="55%">
+    <img width=55% alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="230px"/>
     <br/><br/>
-    <img width=50% align="bottom" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
+    <img width=55% title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
  
   </div>
   
