@@ -25,7 +25,9 @@
  
   </div>
   
-  <br/><br/><br/><br/>
+  <br/>
+  
+<hr width=50% align="center">
   <div align="left" width="100%">
   <b>N.B.</b> Most of my projects are private. These are just my public contributions.
 </div>
