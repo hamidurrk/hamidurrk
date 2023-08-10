@@ -23,7 +23,7 @@
     <br/><br/>
     <img width=53% title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
   </div>
-   <br/><br/>
+   <br/>
 </div>
 <div align="left" width="100%">
   <b>N.B.</b> Most of my projects are private. These are just my public contributions.
