@@ -138,6 +138,3 @@
   <a align="left" href="https://github.com/hamidurrk/InSec-Aegis_V2.0" title="InSec-Aegis_V2.0"><img align="left" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=InSec-Aegis_V2.0&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
   <a align="right" href="https://github.com/hamidurrk/Pong_Game" title="Pong_Game"><img align="right" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Pong_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
 </div>
-<br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr>
