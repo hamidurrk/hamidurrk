@@ -13,21 +13,19 @@
 </br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a>
 
-  <h3>🔥 Streak Stats</h3>
-
-  <img title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8"/>
- 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3> </h3>
 <div width="100%" align="center">
   <div align="left" width="50%">
-  <img align=left alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=pie&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5""/>
+  <img align=left alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=pie&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="500px""/>
   </div>
   <div align="right" width="50%">
-  <img align=right alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="250px"/>
-
+    <img width=55% alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="230px"/>
+    <br/><br/>
+    <img width=55% align="bottom" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
+ 
   </div>
   
-  <br/><br/><br/><br/><br/><br/><br/><br/> <br/><br/><br/><br/><br/><br/><br/><br/> <br/><br/>
+  <br/><br/>
   <p align="left" width="100%">
   <b>N.B.</b> Most of my projects are private. These are just my public contributions.
 </p>
@@ -36,11 +34,11 @@
 
 <hr>
 
-</br>
+  <p align="left" width="100%">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=My+Favorite+Tools" alt="My Favourite Tools" /></a>
-
+</p>
+<hr width=50% align="center">
  <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -57,6 +55,8 @@
       <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-white?logo=solidity&logoColor=white&color=%232B247C"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
+  
+<hr width=50% align="center">
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -73,6 +73,8 @@
       <a href="#"><img alt="web3.py" src="https://img.shields.io/badge/web3.py-white?logo=web3dotjs&logoColor=blue&color=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
+        
+<hr width=50% align="center">
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -85,9 +87,9 @@
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
-
+  
+<hr width=50% align="center">
   <h3>💻 Software and Tools</h3>
-
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-black?logo=adobephotoshop&logoColor=%23001D34&color=%2331A8FF"></a>
@@ -118,9 +120,9 @@
   </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
+  <p align="left" width="100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=My+Top+Repositories" alt="My Top Repositories" /></a>
+</p>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hamidurrk/FacebookBot" title="FacebookBot"><img align="left" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=FacebookBot&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
   <a align="right" href="https://github.com/hamidurrk/Nevermind--A_3D_Java_Game" title="Nevermind--A_3D_Java_Game"><img align="right" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Nevermind--A_3D_Java_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
@@ -138,3 +140,6 @@
   <a align="right" href="https://github.com/hamidurrk/Pong_Game" title="Pong_Game"><img align="right" height="200" width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Pong_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
+<br/><br/><br/><br/><br/><br/>
+<hr>
