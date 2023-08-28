@@ -30,12 +30,10 @@
    <br/>
 </div> -->
 
- <p >
-   <br/>
-    <a href="#" alt="Hamidur's Top Languages"><img align=left title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=12&layout=pie&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="500px""/></a>
-     <a href="#" alt="Hamidur's Github Stats"><img title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="230px"/></a>
-    <br/><br/>
-    <a href="#" alt="Hamidur's consistency of contribution on GitHub"><img title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" /></a>
+ <p>
+    <a href="#" alt="Hamidur's Top Languages"><img  title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=12&layout=pie&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="500px""/></a>
+    <a href="#" alt="Hamidur's consistency of contribution on GitHub"><img width="500" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" /></a>
+    <a href="#" alt="Hamidur's Github Stats"><img width="500" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5" height="230px"/></a>
  
   </p>
 
@@ -150,7 +148,7 @@
     <a align="left" href="https://github.com/hamidurrk/InSec-Aegis_V2.0" title="InSec-Aegis_V2.0"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=InSec-Aegis_V2.0&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
     <a align="right" href="https://github.com/hamidurrk/Pong_Game" title="Pong_Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Pong_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
   </div> -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/hamidurrk/FacebookBot" title="FacebookBot"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=FacebookBot&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
   <a href="https://github.com/hamidurrk/Nevermind--A_3D_Java_Game" title="Nevermind--A_3D_Java_Game"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Nevermind--A_3D_Java_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
   <a href="https://github.com/hamidurrk/Assistive-Device-for-Visually-Impaired-People" title="Assistive-Device"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Assistive-Device-for-Visually-Impaired-People&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
