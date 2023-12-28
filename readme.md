@@ -16,7 +16,7 @@
 <hr>
 
 </br>
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a>
+<!-- <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a> -->
 <p>
     <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=12&layout=pie&theme=react&hide=html,CSS,roff&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="600px""/>
    
