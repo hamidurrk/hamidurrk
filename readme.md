@@ -119,7 +119,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="TeamViewer" src="https://img.shields.io/badge/TeamViewer-white?logo=teamviewer&logoColor=%23004680"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows_10-white?logo=windows10&logoColor=white&color=%230078D6"></a>
+      <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-white?logo=windows11&logoColor=white&color=%230078D6"></a>
       <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-white?logo=xampp&logoColor=white&color=%23FB7A24"></a>
   </p>
 
