@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-<a href="#"><img align=center src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=48CBC5&center=true&vCenter=true&width=500&lines=Blending+Robotics+and+Coding+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Exploring+the+Boundaries+of+Innovation+%F0%9F%8C%8C;Inspiring+Minds+through+Robotics+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="#"><img align=center src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=48CBC5&center=true&vCenter=true&width=500&lines=Studying+Computational+Science+and+Artificial+Intelligence;Exploring+the+Boundaries+of+Innovation+%F0%9F%8C%8C;Inspiring+Minds+through+Robotics+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 </p>
 
 </br>
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=1000&color=48CBC5&repeat=false&width=800&lines=Robotics%7CBlockchain%7CEmbedded+Systems%7CFull+Stack+Development" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=1000&color=48CBC5&repeat=false&width=800&lines=Robotics%7CBlockchain%7CArtificial+Intelligence%7CFull+Stack+Development" alt="Typing SVG" /></a>
 </p>
 </br>
 
