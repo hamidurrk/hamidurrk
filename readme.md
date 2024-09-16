@@ -47,6 +47,7 @@
 <hr width=50% align="center">
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acsharp&type=repositories"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -57,7 +58,6 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amarkdown&type=repositories"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajavascript&type=repositories"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
       <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-white?logo=solidity&logoColor=white&color=%232B247C"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -85,7 +85,7 @@
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&color=%23000000"></a>
       <a href="#"><img alt="IPFS" src="https://img.shields.io/badge/IPFS-white?logo=ipfs&logoColor=white&color=%2365C2CB"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
