@@ -4,12 +4,8 @@
 </p>
 
 <p align="center">
-<a href="#"><img align=center src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=48CBC5&center=true&vCenter=true&width=500&lines=Studying+Computational+Science+and+Artificial+Intelligence;Exploring+the+Boundaries+of+Innovation+%F0%9F%8C%8C;Inspiring+Minds+through+Robotics+%F0%9F%8C%9F" alt="Typing SVG" /></a>
-</p>
-
-</br>
-<p align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=1000&color=48CBC5&repeat=false&width=800&lines=Robotics%7CBlockchain%7CArtificial+Intelligence%7CFull+Stack+Development" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=300&duration=1000&pause=2000&color=48CBC5&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=80&lines=Studying+Computational+Engineering+and+Artificial+Intelligence;at+LUT+University%2C+Finland" alt="Typing SVG" /></a>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=1000&pause=1000&color=BEFFFCFF&repeat=false&width=770&lines=Robotics%7CMachine+Learning%7CBlockchain%7CFull+Stack+Development" alt="Typing SVG" /></a>
 </p>
 </br>
 
