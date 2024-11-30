@@ -30,10 +30,8 @@
 <div align="left" width="100%">
   <b>N.B.</b> Most of my projects are private. These are just my public contributions.
 </div>
-
     <br/>
     <br/>
-
 <a href="#"><img title="Hamidur's Activity Graph" alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=48CBC5&line=48CBC5&point=FFFFFF&hide_border=true" /></a>
 
 <hr>
