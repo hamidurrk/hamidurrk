@@ -20,8 +20,7 @@
    <br/>
    
    <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/>
-   
-<!-- <-- include_all_commits=true& --> 
+
    <br/>
    <br/>
    
@@ -31,8 +30,10 @@
 <div align="left" width="100%">
   <b>N.B.</b> Most of my projects are private. These are just my public contributions.
 </div>
+
     <br/>
     <br/>
+
 <a href="#"><img title="Hamidur's Activity Graph" alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=48CBC5&line=48CBC5&point=FFFFFF&hide_border=true" /></a>
 
 <hr>
