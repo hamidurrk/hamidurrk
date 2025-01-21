@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=300&duration=1000&pause=2000&color=48CBC5&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Studying+Computational+Engineering+and+Artificial+Intelligence;at+LUT+University%2C+Finland" alt="Typing SVG" /></a>
-    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=770&lines=Robotics%7CMachine+Learning%7CBlockchain%7CFull+Stack+Development" alt="Typing SVG" /></a>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=770&lines=Machine+Learning%7CRobotics%7CBlockchain%7CFull+Stack+Development" alt="Typing SVG" /></a>
 </p>
 </br>
 
