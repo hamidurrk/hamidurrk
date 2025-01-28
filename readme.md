@@ -18,13 +18,12 @@
    <br/>
    <br/>
    
-   <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/>
+   <img width="450" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://nirzak-streak-stats.vercel.app?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=45FEE6&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
 
   
    <br/>
    <br/>
-   
-   <img width="450" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://streak-stats.demolab.com?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=44BDB8&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
+   <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/>
 </p>
 
 <div align="left" width="100%">
@@ -43,6 +42,7 @@
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acsharp&type=repositories"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -55,6 +55,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
       <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-white?logo=solidity&logoColor=white&color=%232B247C"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
   
