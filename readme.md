@@ -36,7 +36,7 @@
 <hr>
 
   <p align="left" width="100%">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=My+Favorite+Tools" alt="My Favourite Tools" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=Favorite+Tools" alt="Favourite Tools" /></a>
 </p>
 <hr width=50% align="center">
  <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -122,7 +122,7 @@
 
 <hr>
   <p align="left" width="100%">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=My+Top+Repositories" alt="My Top Repositories" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=Notable+Repositories" alt="Notable Repositories" /></a>
 </p>
 
 <p align="left">
