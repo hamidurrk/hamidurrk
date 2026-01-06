@@ -13,7 +13,7 @@
 </br>
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a>
 <p>
-    <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=10&layout=pie&theme=react&hide=html,CSS,jupyter%20notebook,roff&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="590px""/>
+    <!-- <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=10&layout=pie&theme=react&hide=html,CSS,jupyter%20notebook,roff&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="590px""/> -->
    
    <br/>
    <br/>
@@ -23,7 +23,7 @@
   
    <br/>
    <br/>
-   <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/>
+  <!-- <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/> -->
 </p>
 
 <div align="left" width="100%">
