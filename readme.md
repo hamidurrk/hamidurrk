@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamidurrk.hamidurrk"> </br>
 <p align="center"> 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=1000&pause=1000&color=48CBC5&background=035E5D00&repeat=false&width=500&lines=Md+Hamidur+Rahman+Khan" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=1000&pause=1000&color=48CBC5&background=035E5D00&center=true&vCenter=true&repeat=false&width=500&lines=Hamidur+Khan" alt="Hamidur Khan" /></a>
 </p>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=300&duration=1000&pause=2000&color=48CBC5&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Studying+Computational+Engineering+and+Artificial+Intelligence;at+LUT+University%2C+Finland" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=300&duration=1000&pause=2000&color=48CBC5&center=true&vCenter=true&repeat=false&multiline=true&width=750&height=80&lines=Studying+Computational+Engineering+and+Artificial+Intelligence;at+LUT+University%2C+Finland" alt="Typing SVG" /></a>
     <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=770&lines=Machine+Learning%7CRobotics%7CBlockchain%7CFull+Stack+Development" alt="Typing SVG" /></a>
 </p>
 </br>
