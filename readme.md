@@ -13,7 +13,7 @@
 </br>
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a>
 <p>
-    <!-- <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=10&layout=pie&theme=react&hide=html,CSS,jupyter%20notebook,roff&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="590px""/> -->
+    <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=10&layout=pie&theme=react&hide=html,CSS,jupyter%20notebook,roff&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="590px""/>
    
    <br/>
    <br/>
@@ -23,7 +23,7 @@
   
    <br/>
    <br/>
-  <!-- <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/> -->
+   <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/> 
 </p>
 
 <div align="left" width="100%">
@@ -41,22 +41,35 @@
 <hr width=50% align="center">
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <!-- <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajava&type=repositories"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-<!--       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acsharp&type=repositories"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> -->
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajavascript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acss&type=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amarkdown&type=repositories"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-<!--       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajavascript&type=repositories"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> -->
       <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-white?logo=solidity&logoColor=white&color=%232B247C"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a> -->
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajava&type=repositories"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A?style=for-the-badge&logo=cpp2&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajavascript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acss&type=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<!-- <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amarkdown&type=repositories"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> -->
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+MATLAB&type=repositories"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+solidity&type=repositories"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>
   </p>
   
 <hr width=50% align="center">
@@ -67,10 +80,11 @@
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-darkgreen?style=for-the-badge&logo=selenium&logoColor=white"></a>
         <a href="#"><img src="https://img.shields.io/badge/STATA-216494?style=for-the-badge&logo=stata&logoColor=white"></a>
         <a href="#"><img src="https://img.shields.io/badge/SPSS-CB1E4C?style=for-the-badge&logo=spss&logoColor=white"></a>
         <a href="#"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
-      <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-darkgreen?style=for-the-badge&logo=selenium&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
       <!-- <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a> -->
       <!-- <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a> -->
@@ -101,6 +115,14 @@
       <!-- <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a> -->
   </p>
+<hr width=50% align="center">
+  <h3>🧰 IoT & Embedded Systems</h3>
+  <p> 
+      <a href="https://github.com/search?q=user%3Ahamidurrk+Arduino&type=repositories"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+RaspberryPi&type=repositories"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+ESP32&type=repositories"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+STM32&type=repositories"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>
+  </p>
           
 <hr width=50% align="center">
   <h3>🧰 Full-Stack Development</h3>
@@ -120,29 +142,29 @@
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Java%20Swing-E66E01.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
   </p>
 <hr width=50% align="center">
-  <h3>🧰 IoT & Embedded Systems</h3>
-  <p> 
-      <a href="https://github.com/search?q=user%3Ahamidurrk+Arduino&type=repositories"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Ahamidurrk+RaspberryPi&type=repositories"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Ahamidurrk+ESP32&type=repositories"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
-  </p>
-<hr width=50% align="center">
   <h3>🧰 Blockchain & DLT</h3>
   <p> 
-      <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+Ethereum&type=repositories"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+Solidity&type=repositories"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+Hyperledger&type=repositories"><img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+IPFS&type=repositories"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"></a>
+      <!-- <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"></a> -->
   </p>
   
 <hr width=50% align="center">
-  <h3>💻 Software and Tools</h3>
+  <h3>💻 Engineering and Simulation</h3>
   <p>
       <!-- <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a> -->
-      <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-black?logo=adobephotoshop&logoColor=%23001D34&color=%2331A8FF"></a>
-      <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-black?logo=adobeillustrator&logoColor=%23310000&color=%23FF9A00"></a>
-      <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe_Premiere_Pro-black?logo=adobepremierepro&logoColor=%23290032&color=%23E373F7"></a>
+      <a href="#"><img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DC1928?style=for-the-badge&logo=solidworks&logoColor=white"></a>
+      <a href="#"><img alt="Autodesk Fusion 360" src="https://img.shields.io/badge/Autodesk_Fusion_360-white?style=for-the-badge&logo=autodesk&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+MATLAB&type=repositories"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+Simulink&type=repositories"><img alt="Simulink" src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
+      <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=%23001D34&color=%2331A8FF"></a>
+      <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-black?style=for-the-badge&logo=adobeillustrator&logoColor=%23310000&color=%23FF9A00"></a>
+      <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe_Premiere_Pro-black?style=for-the-badge&logo=adobepremierepro&logoColor=%23290032&color=%23E373F7"></a>
       <!-- <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a> -->
-      <a href="#"><img alt="Autodesk Fusion 360" src="https://img.shields.io/badge/Autodesk_Fusion_360-white?logo=autodesk&logoColor=black"></a>
       <!-- <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-black?logo=blender&logoColor=%23F5792A&color=%23255483"></a> -->
       <!-- <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a> -->
@@ -159,8 +181,17 @@
       <!-- <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-white?logo=windows11&logoColor=white&color=%230078D6"></a> -->
       <!-- <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-white?logo=xampp&logoColor=white&color=%23FB7A24"></a> -->
-  </p>
-
+  </p>  
+<hr width=50% align="center">
+  <h3>🎨 Design and Creative Tools</h3>
+  <p>
+<a href="https://github.com/search?q=user%3Ahamidurrk+Photoshop&type=repositories">  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+Illustrator&type=repositories">  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+Premiere&type=repositories">  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+AfterEffects&type=repositories">  <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+Figma&type=repositories">  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahamidurrk+Canva&type=repositories">  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white"></a>
+</p> 
 <hr>
   <p align="left" width="100%">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=Notable+Repositories" alt="Notable Repositories" /></a>
