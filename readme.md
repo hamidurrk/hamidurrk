@@ -41,7 +41,7 @@
 
 <table>
 <tr>
-  <td colspan="2" style="vertical-align: top;">
+  <td colspan="2" valign="top">
     <h3>👨‍💻 Programming and Markup Languages</h3>
     <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -62,8 +62,8 @@
   </td>
 </tr>
 <tr>
-  <td width="50%" style="vertical-align: top;">
-    <h3>� AI, ML and Data Analysis</h3>
+  <td width="50%" valign="top">
+    <h3>🤖 AI, ML and Data Analysis</h3>
     <p>
       <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
@@ -79,7 +79,7 @@
       <a href="#"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
     </p>
   </td>
-  <td width="50%" style="vertical-align: top;">
+  <td width="50%" valign="top">
     <h3>🔧 Robotics, IoT & Embedded Systems</h3>
     <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+Arduino&type=repositories"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
@@ -90,8 +90,8 @@
   </td>
 </tr>
 <tr>
-  <td width="50%" style="vertical-align: top;">
-      <h3>� Databases Management Systems</h3>
+  <td width="50%" valign="top">
+      <h3>💾 Databases Management Systems</h3>
     <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+Oracle&type=repositories"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+PostgreSQL&type=repositories"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
@@ -100,7 +100,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+Firebase&type=repositories"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+MongoDB&type=repositories"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     </p>
-  <td width="50%" style="vertical-align: top;">
+  <td width="50%" valign="top">
     <h3>⛓️ Blockchain & DLT</h3>
     <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+Ethereum&type=repositories"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"></a>
@@ -112,7 +112,7 @@
   </td>
 </tr>
 <tr>
-  <td width="50%" style="vertical-align: top;">
+  <td width="50%" valign="top">
     <h3>🌐 Full-Stack Development</h3>
     <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+React&type=repositories&s=updated&o=desc"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -123,7 +123,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+Figma&type=repositories&s=updated&o=desc"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     </p>
   </td>
-  <td width="50%" style="vertical-align: top;">
+  <td width="50%" valign="top">
     <h3>📱 Desktop & Android App Development</h3>
     <p>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
@@ -134,8 +134,8 @@
   </td>
 </tr>
 <tr>
-  <td width="50%" style="vertical-align: top;">
-    <h3>�️ Engineering and Simulation</h3>
+  <td width="50%" valign="top">
+    <h3>🛠️ Engineering and Simulation</h3>
     <p>
       <a href="#"><img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DC1928?style=for-the-badge&logo=solidworks&logoColor=white"></a>
       <a href="#"><img alt="Autodesk Fusion 360" src="https://img.shields.io/badge/Autodesk_Fusion_360-white?style=for-the-badge&logo=autodesk&logoColor=black"></a>
@@ -143,7 +143,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+Simulink&type=repositories"><img alt="Simulink" src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
     </p>
   </td>
-  <td width="50%" style="vertical-align: top;">
+  <td width="50%" valign="top">
     <h3>🎨 Design and Creative Tools</h3>
     <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+Photoshop&type=repositories"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-37ABFF?style=for-the-badge&logo=adobephotoshop&logoColor=white"></a>
