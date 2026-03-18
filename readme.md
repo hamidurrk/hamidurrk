@@ -59,6 +59,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+solidity&type=repositories"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-3F3685?style=for-the-badge&logo=solidity&logoColor=white"></a>
     </p>
+  </br>
   </td>
 </tr>
 <tr>
@@ -78,6 +79,7 @@
       <a href="#"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
       <a href="#"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
     </p>
+  </br>
   </td>
   <td width="50%" valign="top">
     <h3>🔧 Robotics, IoT & Embedded Systems</h3>
@@ -87,6 +89,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+ESP32&type=repositories"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+STM32&type=repositories"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>
     </p>
+  </br>
   </td>
 </tr>
 <tr>
@@ -100,6 +103,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+Firebase&type=repositories"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+MongoDB&type=repositories"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     </p>
+  </br>
   <td width="50%" valign="top">
     <h3>⛓️ Blockchain & DLT</h3>
     <p>
@@ -109,6 +113,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+IPFS&type=repositories"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+Multichain&type=repositories"><img src="https://img.shields.io/badge/Multichain-65C2CB?style=for-the-badge&logo=multichain&logoColor=white"></a>
     </p>
+  </br>
   </td>
 </tr>
 <tr>
@@ -122,6 +127,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+Django&type=repositories&s=updated&o=desc"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+Figma&type=repositories&s=updated&o=desc"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     </p>
+  </br>
   </td>
   <td width="50%" valign="top">
     <h3>📱 Desktop & Android App Development</h3>
@@ -142,6 +148,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+MATLAB&type=repositories"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+Simulink&type=repositories"><img alt="Simulink" src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
     </p>
+  </br>
   </td>
   <td width="50%" valign="top">
     <h3>🎨 Design and Creative Tools</h3>
@@ -152,6 +159,7 @@
       <a href="https://github.com/search?q=user%3Ahamidurrk+Figma&type=repositories"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+Canva&type=repositories"><img alt="Canva" src="https://img.shields.io/badge/Canva-7F31EC?style=for-the-badge&logo=Canva&logoColor=white"></a>
     </p>
+  </br>
   </td>
 </tr>
 </table>
