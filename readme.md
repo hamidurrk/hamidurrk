@@ -14,12 +14,12 @@
 </br>
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a>
 <p>
-    <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=10&layout=pie&theme=react&hide=html,CSS,jupyter%20notebook,roff&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="590px""/>
+    <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=pie&theme=react&hide=html,CSS,jupyter%20notebook,roff,tex,scss&hide_border=true&exclude_repo=github-readme-streak-stats&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="590px""/>
    
    <br/>
    <br/>
    
-   <img width="450" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://nirzak-streak-stats.vercel.app?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=45FEE6&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
+   <img width="450" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://github-readme-streak-stats-green-phi-45.vercel.app/?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=45FEE6&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
 
    <br/>
    <br/>
