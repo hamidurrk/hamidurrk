@@ -45,19 +45,19 @@
     <h3>👨‍💻 Programming and Markup Languages</h3>
     <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A?style=for-the-badge&logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajava&type=repositories"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A?style=for-the-badge&logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajavascript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acss&type=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+MATLAB&type=repositories"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+solidity&type=repositories"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-3F3685?style=for-the-badge&logo=solidity&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
     </p>
   </br>
   </td>
