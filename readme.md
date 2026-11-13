@@ -31,7 +31,7 @@
 </div>
     <br/>
     <br/>
-<a href="#"><img title="Hamidur's Activity Graph" alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=48CBC5&line=48CBC5&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="#"><img title="Hamidur's Activity Graph" alt="Hamidur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamidurrk&bg_color=1F222E&color=48CBC5&line=48CBC5&point=FFFFFF&hide_border=true" /></a> -->
 
 <hr>
 
@@ -164,12 +164,34 @@
 </tr>
 </table>
 
-<hr>
-
 <p align="left" width="100%">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&background=035E5D00&vCenter=true&repeat=false&width=500&height=25&lines=Notable+Repositories" alt="Notable Repositories" /></a>
 </p>
 
+| Project | |
+| :-------------------------: | :------------------------------: |
+| **[Tethr](https://github.com/hamidurrk/ground-station)**<br><sub>Network Tower Location Estimation Using Mean Shift Clustering</sub> | <img src="media/gif/tethr.gif" width="400" alt="Tethr"> |
+| **[Pixamon](https://github.com/hamidurrk/pixamon-game)**<br><sub>Retro style pixel art android game</sub> | <img src="media/gif/pixamon.gif" width="400" alt="Pixamon"> |
+| **[Queue Attendance System](https://github.com/hamidurrk/lut-fop-attendance-system-local)**<br><sub>An application for managing attendance and auto grading</sub> | <img src="media/gif/queue.gif" width="400" alt="Queue Attendance System"> |
+| **[Spectre Bot & Operating System](https://github.com/hamidurrk/haunt-os)**<br><sub>Custom line follower robot programmed for competitive national tournaments</sub> | <img src="media/gif/spectre-bot-os.gif" width="400" alt="Spectre Bot & Operating System"> |
+| **[Block Meter](https://youtu.be/YftsPNbBj10)**<br><sub>An Immutable Electricity Billing System to Eliminate Non-Technical Loss Using Blockchain</sub> | <img src="media/gif/block-meter.gif" width="400" alt="Block Meter"> |
+| **[Python Program Tester](https://github.com/hamidurrk/python-project-tester-2025)**<br><sub>Primarily a project submission testing helper for programming courses</sub> | <img src="media/gif/python-program-tester.gif" width="400" alt="Python Program Tester"> |
+| **[Assistive Device for Visually Impaired People](https://github.com/hamidurrk/Assistive-Device-for-Visually-Impaired-People)**<br><sub>A hand-glove-like device to assist visually impaired people in reading text from any digital platform</sub> | <img src="media/gif/assistive-device-visually-impaired.gif" width="400" alt="Assistive Device for Visually Impaired People"> |
+| **[E-paper Scraper](https://github.com/hamidurrk/epaper-scraper)**<br><sub>Python-based web scraper for extracting img/text data from online newspapers</sub> | <img src="media/gif/epaper-scraper.gif" width="400" alt="E-paper Scraper"> |
+| **Social Media Scraper**<br><sub>Scrapes post data from Facebook for research purposes</sub> | <img src="media/gif/social-media-scraper.gif" width="400" alt="Social Media Scraper"> |
+| **[Awake Website](https://github.com/hamidurrk/awake_website)**<br><sub>A platform for social change for Awake in Kenya</sub> | <img src="media/gif/awake-website.gif" width="400" alt="Awake Website"> |
+| **[3D Simulation of Dijkstra's Algorithm](https://github.com/hamidurrk/Kibo-RPC-Python)**<br><sub>Testing the shortest path algorithm in a 3D environment</sub> | <img src="media/gif/dijkstra-simulation-3d.gif" width="400" alt="3D Simulation of Dijkstra's Algorithm"> |
+| **[2D Pong Game](https://github.com/hamidurrk/Pong_Game)**<br><sub>Simple 2D pong game in Java</sub> | <img src="media/gif/2d-pong-game.gif" width="400" alt="2D Pong Game"> |
+| **EduKit**<br><sub>An Educational Module to teach intermediate Electronics</sub> | <img src="media/gif/edukit.gif" width="400" alt="EduKit"> |
+| **[Friend Finder Bot - Facebook](https://github.com/hamidurrk/Ajaira_bot/blob/master/main.py)**<br><sub>Surfs through profile lists and sends friend request on Facebook</sub> | <img src="media/gif/friend-finder-bot-facebook.gif" width="400" alt="Friend Finder Bot - Facebook"> |
+| **[PyWebIDE](https://github.com/hamidurrk/PyWebIDE)**<br><sub>A web browser IDE for Python programming</sub> | <img src="media/gif/pywebide.gif" width="400" alt="PyWebIDE"> |
+<!-- | **[Portfolio Website - Client Project](https://github.com/hamidurrk/portfolio-souravdas)**<br><sub>Academic portfolio website for a client</sub> | <img src="media/gif/portfolio-client-project.gif" width="400" alt="Portfolio Website - Client Project"> | -->
+<!-- | **[Dynamic Quizzer](https://github.com/hamidurrk/Dynamic-Quizzer)**<br><sub>A dynamic quiz application built with React and Firebase for authentication.</sub> | <img src="media/gif/dynamic-quizzer.gif" width="400" alt="Dynamic Quizzer"> | -->
+
+<hr>
+
+
+<!-- 
 <p align="left">
   <a href="https://github.com/hamidurrk/pixamon-game" title="pixamon-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=pixamon-game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
   <a href="https://github.com/hamidurrk/FacebookBot" title="FacebookBot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=FacebookBot&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
@@ -177,4 +199,4 @@
   <a href="https://github.com/hamidurrk/ground-station" title="Tethr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=ground-station&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
   <a href="https://github.com/hamidurrk/InSec-Aegis_V2.0" title="InSec-Aegis_V2.0"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=InSec-Aegis_V2.0&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5"></a>
   <a href="https://github.com/hamidurrk/Pong_Game" title="Pong_Game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hamidurrk&repo=Pong_Game&theme=react&border_color=48CBC5&border_radius=10&title_color=48CBC5&icon_color=48CBC5" alt="github-readme-youtube-cards"></a>
-</p>
+</p> -->
