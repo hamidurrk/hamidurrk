@@ -14,16 +14,16 @@
 </br>
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=500&pause=1000&color=48CBC5&vCenter=true&repeat=false&width=550&height=25&lines=Github+Stats+and+Activity" alt="Typing SVG" /></a>
 <p>
-    <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidurrk&langs_count=10&layout=pie&theme=react&hide=html,CSS,jupyter%20notebook,roff&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="590px""/>
+    <img align="left" width="350" title="Hamidur's Top Languages" alt="Hamidur's Top Languages" src="https://github-readme-stats-drab-gamma-94.vercel.app/api/top-langs/?username=hamidurrk&langs_count=8&layout=pie&theme=react&hide=html,CSS,jupyter%20notebook,roff,tex,scss&hide_border=true&exclude_repo=github-readme-streak-stats&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"height="590px""/>
    
    <br/>
    <br/>
    
-   <img width="450" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://nirzak-streak-stats.vercel.app?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=45FEE6&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
+   <img width="450" title="Hamidur's consistency of contribution on GitHub" alt="Hamidur's streak" src="https://github-readme-streak-stats-green-phi-45.vercel.app/?user=hamidurrk&theme=dracula&hide_border=true&ring=44BDB8&fire=44BDB8&stroke=44BDB8&currStreakNum=45FEE6&sideLabels=44BDB8&excludeDaysLabel=44BDB8&sideNums=44BDB8&currStreakLabel=44BDB8" />
 
    <br/>
    <br/>
-   <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/> 
+   <img width="450" title="Hamidur's Github Stats" alt="Hamidur's Github Stats" src="https://github-readme-stats-drab-gamma-94.vercel.app/api/?username=hamidurrk&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=48CBC5&icon_color=48CBC5"/> 
 </p>
 
 <div align="left" width="100%">
@@ -45,19 +45,19 @@
     <h3>👨‍💻 Programming and Markup Languages</h3>
     <p>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A?style=for-the-badge&logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajava&type=repositories"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acpp&type=repositories"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A?style=for-the-badge&logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ac&type=repositories"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ajavascript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Amysql&type=repositories"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Acss&type=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+MATLAB&type=repositories"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ahamidurrk+solidity&type=repositories"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-3F3685?style=for-the-badge&logo=solidity&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahamidurrk+language%3Ar&type=repositories"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
     </p>
   </br>
   </td>
