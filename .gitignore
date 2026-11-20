@@ -1,3 +1,5 @@
 .venv/
 media/source/
 data/
+clipper/
+__pycache__/

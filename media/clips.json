@@ -1,0 +1,96 @@
+{
+  "2d-pong-game": {
+    "end": 20.37,
+    "fps": 10,
+    "start": 7.04,
+    "width": 320
+  },
+  "assistive-device-visually-impaired": {
+    "colors": 128,
+    "denoise": true,
+    "end": 11.28,
+    "fps": 10,
+    "start": 0.0,
+    "width": 320
+  },
+  "awake-website": {
+    "colors": 60,
+    "denoise": true,
+    "end": 7.38,
+    "fps": 10,
+    "start": 0.0,
+    "width": 320
+  },
+  "block-meter": {
+    "colors": 128,
+    "denoise": true,
+    "end": 349.32,
+    "fps": 10,
+    "start": 329.18,
+    "width": 320
+  },
+  "dijkstra-simulation-3d": {
+    "colors": 128,
+    "denoise": false,
+    "end": 22.11,
+    "fps": 10,
+    "start": 14.03,
+    "width": 320
+  },
+  "edukit": {
+    "colors": 60,
+    "denoise": true,
+    "end": 112.26,
+    "fps": 10,
+    "start": 107.25,
+    "width": 320
+  },
+  "epaper-scraper": {
+    "colors": 128,
+    "denoise": false,
+    "end": 34.88,
+    "fps": 10,
+    "start": 26.75,
+    "width": 320
+  },
+  "friend-finder-bot-facebook": {
+    "colors": 128,
+    "denoise": false,
+    "end": 97.8,
+    "fps": 10,
+    "start": 90.65,
+    "width": 320
+  },
+  "pixamon": {
+    "colors": 128,
+    "denoise": false,
+    "end": 10.74,
+    "fps": 10,
+    "start": 2.99,
+    "width": 320
+  },
+  "python-program-tester": {
+    "colors": 128,
+    "denoise": false,
+    "end": 142.67,
+    "fps": 10,
+    "start": 127.68,
+    "width": 320
+  },
+  "spectre-bot-os": {
+    "colors": 128,
+    "denoise": false,
+    "end": 9.43,
+    "fps": 10,
+    "start": 3.76,
+    "width": 320
+  },
+  "tethr": {
+    "colors": 128,
+    "denoise": false,
+    "end": 6.0,
+    "fps": 10,
+    "start": 0.0,
+    "width": 320
+  }
+}
